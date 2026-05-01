@@ -1,52 +1,61 @@
-# 🎮 RiquelmeUI - Interface Roblox Lua
+<p align="center">
+  <img src="https://files.catbox.moe/2lzab2.jpg" width="200" />
+</p>
 
-> Interface moderna, otimizada e pronta pra uso em scripts Roblox 🚀
+<h1 align="center">RiquelmeUI</h1>
 
----
+<p align="center">
+  Interface profissional para scripts Roblox
+</p>
 
-## 📌 Sobre o Projeto
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Ativo-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Roblox-Lua-red?style=for-the-badge">
+</p>
 
-A **RiquelmeUI** é uma interface feita em **Lua para Roblox**, criada pra facilitar a vida de quem desenvolve scripts.
-
-Chega de perder tempo criando UI do zero 😴  
-Com a RiquelmeUI você simplesmente **importa e usa**.
-
-💡 Ideal para:
-- Hubs de scripts
-- Sistemas administrativos
-- Menus personalizados
-- Projetos profissionais
-
----
-
-## ⚡ Vantagens
-
-✔ Design moderno (black style)  
-✔ Fácil de integrar  
-✔ Leve e otimizada  
-✔ Totalmente personalizável  
-✔ Economiza MUITO tempo  
-
----
-
-## 🌐 Acesse
-
-🔗 Site:  
-https://riquelme-dev.netlify.app/home  
-
-💬 Discord:  
-https://discord.gg/76PJPm8GNY  
-
-📢 WhatsApp Channel:  
-https://whatsapp.com/channel/0029Vb7iZ6R35fLyYrWnZy0s  
+<p align="center">
+  <a href="https://riquelme-dev.netlify.app/home">
+    <img src="https://img.shields.io/badge/Site-Acessar-black?style=for-the-badge&logo=google-chrome">
+  </a>
+  <a href="https://discord.gg/76PJPm8GNY">
+    <img src="https://img.shields.io/badge/Discord-Entrar-5865F2?style=for-the-badge&logo=discord">
+  </a>
+  <a href="https://whatsapp.com/channel/0029Vb7iZ6R35fLyYrWnZy0s">
+    <img src="https://img.shields.io/badge/WhatsApp-Canal-25D366?style=for-the-badge&logo=whatsapp">
+  </a>
+</p>
 
 ---
 
-## 🧠 Como usar
+## Sobre o Projeto
+
+A RiquelmeUI é uma interface feita em Lua para Roblox, criada para facilitar o desenvolvimento de scripts.
+
+Evite perder tempo criando interfaces do zero.  
+Com a RiquelmeUI, basta importar e utilizar.
+
+Aplicações ideais:
+- Hubs de scripts  
+- Sistemas administrativos  
+- Menus personalizados  
+- Projetos profissionais  
+
+---
+
+## Vantagens
+
+- Design moderno (black style)  
+- Fácil integração  
+- Leve e otimizada  
+- Totalmente personalizável  
+- Economia de tempo no desenvolvimento  
+
+---
+
+## Como usar
 
 ```lua
--- Exemplo básico (pode adaptar conforme seu sistema)
-
 local UI = loadstring(game:HttpGet("LINK_DA_UI_AQUI"))()
 
 UI:CreateWindow({

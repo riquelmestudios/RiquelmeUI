@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://api.tohka.com.br/uploads/file-1777671825985-680463863.jpg" width="180" />
+  <img src="https://i.postimg.cc/d1jxtw3y/d61a662bd1f78cc7947ffe9e735e478f.jpg" width="180" />
 </p>
 
 <h1 align="center">RiquelmeUI</h1>
